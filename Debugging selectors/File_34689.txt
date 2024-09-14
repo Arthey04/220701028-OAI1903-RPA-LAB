@@ -1,0 +1,1 @@
+From  the  Activities pane, drag and drop the  Delay  activity into your workflow at the desired location.

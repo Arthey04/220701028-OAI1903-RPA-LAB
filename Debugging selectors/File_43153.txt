@@ -1,0 +1,1 @@
+If  you  have  multiple  sequences  open, you can  switch between  them by clicking the tabs at the top of the main workspace. Each sequence will be represented by a tab.
